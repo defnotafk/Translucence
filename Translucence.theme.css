@@ -35,7 +35,7 @@
 	--reply-hue: 226;
 	--reply-saturation: 77.4%;
 	--reply-lightness: 61.8%;
-	--reply-opacity: 1; /*	-	*/
+	--reply-opacity: 0; /*	-	*/
 
 	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
